@@ -1,3 +1,5 @@
+**Open as administrator** (windows)
+
 To run the script with cookies, follow these steps:
 
 1. **Export Your Cookies:**
